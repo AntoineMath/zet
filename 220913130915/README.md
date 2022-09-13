@@ -4,12 +4,14 @@
 A JWT has 3 parts:
 1. Header: represents token type algo used for signin and encoding.
 2. Payload: **Do not put sensitive informations in it**
-3. Signature: calculated by encoding and concatanating the header and payload. It is then passed to the cryptographic algo.
-`data = base64urlEncode( header ) + "." + base64urlEncode( payload )
-signature = HMAC-SHA256( data, secret_salt )`  
+3. Signature: calculated by encoding and concatanating the header and payload. It is then passed to the cryptographic algo.  
+```
+data = base64urlEncode( header ) + "." + base64urlEncode( payload )
+signature = HMAC-SHA256( data, secret_salt )
+```
 
 ## Steps
-1. User signin, server return JWT
+1. User signin, server returns JWT
 2. GET/protected-resource (with Bearer JWT)
 3. Hash the JWT token with the server private key and detect if it's the same as the one sent.
 
