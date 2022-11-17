@@ -8,6 +8,8 @@ bankable
 operateur kiwi  
 captain trading (pour les debutants)  
   
+amkantrading (twitch)  
+  
   
   
 ## References  
