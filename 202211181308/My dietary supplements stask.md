@@ -10,6 +10,7 @@ Update of the 11/18/2022
 - creatine  
 - magnesium  
 - zinc  
+- collagene  
   
 All the complements comes from [Nutrimuscle][1] store (europe). I selected it because of the transparency regarding the infos about the manufacturer and the lab analysis.  
   
