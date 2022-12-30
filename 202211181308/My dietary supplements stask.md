@@ -2,9 +2,8 @@
 id: 202211181308  
 share: true  
 ---  
-# My dietary supplements stask  
+# My dietary supplements stack  
 Update of the 11/18/2022  
-  
 - omega 3  
 - vitamine D+K2  
 - creatine  
@@ -40,7 +39,7 @@ Sometimes can go up to 4 pills a day (only if I train).
 |   Zinc                |   1 pill        |    200mg                             |    **200mg**                                  |  
   
   
->Note 1: I take collagene 100% if I train (especially leg day). Otherwise, I don't care.   
+>Note : I take collagene 100% if I train (especially leg day). Otherwise, I don't care.   
   
   
   
