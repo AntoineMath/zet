@@ -39,7 +39,8 @@ Sometimes can go up to 4 pills a day (only if I train).
 |   Zinc                |   1 pill        |    200mg                             |    **200mg**                                  |  
   
   
->Note : I take collagene 100% if I train (especially leg day). Otherwise, I don't care.   
+>Note: I take collagene 100% if I train (especially leg day). Otherwise, I don't care.   
+
   
   
   
