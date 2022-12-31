@@ -40,6 +40,7 @@ Sometimes can go up to 4 pills a day (only if I train).
   
   
 >Note: I take collagene 100% if I train (especially leg day). Otherwise, I don't care.   
+
   
   
   
