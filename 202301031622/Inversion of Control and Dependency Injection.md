@@ -61,14 +61,9 @@ We can use @Autowired thanks to the [[@SpringBootApplication]] annotation. No ne
 > https://www.baeldung.com/spring-autowire  
   
 ## References  
-	https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-factory-collaborators  
-	https://www.baeldung.com/spring-autowire  
-	#java #spring #dependency-injection #ioc  
+https://docs.spring.io/spring-framework/docs/current/reference/html/core.html#beans-factory-collaborators]  
+https://www.baeldung.com/spring-autowire  
   
+#java #spring #dependency-injection #ioc  
   
-  
-  
-## References  
-  
-## Litterature note  
   
