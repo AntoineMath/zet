@@ -2,7 +2,7 @@
 id: 202301031622  
 share: true  
 ---  
-# Inversion of Control and Dependency Injection  
+# Inversion of Control with Dependency Injection  
   
   
 **A bean no longer controls the creation or location of its dependencies.**    
