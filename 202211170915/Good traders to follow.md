@@ -4,11 +4,8 @@ share: true
 ---  
 # Good traders to follow  
   
-bankable  
-operateur kiwi  
-captain trading (pour les debutants)  
+- bankable (twitch)  
   
-amkantrading (twitch)  
   
   
   
